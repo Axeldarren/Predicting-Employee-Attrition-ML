@@ -46,8 +46,10 @@ jupyter notebook Predicting Employee Attrition Model.ipynb
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 - IBM for providing the dataset.
 - The open-source community for their valuable tools and libraries.
+
+Thank you for exploring Predicting Employee Attrition with Random Forest Classifier Project.
